@@ -1,0 +1,15 @@
+# Compiled python modules
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# Editor files
+.vscode/
+*.swp
+
+# Misc
+.DS_Store
+```
