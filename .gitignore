@@ -1,15 +1,27 @@
-# Compiled python modules
+# Python
 __pycache__/
 *.pyc
 
-# Environment
+# Environments
 .env
+.venv/
+env/
 venv/
 
-# Editor files
-.vscode/
-*.swp
-
-# Misc
+# OS-specific
 .DS_Store
-```
+
+# Chroma DB / Vector files
+chroma/
+chromadb/
+*.sqlite3
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VSCode
+.vscode/
+
+# Knowledge base
+kb/
