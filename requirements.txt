@@ -1,5 +1,12 @@
 streamlit
 python-dotenv
 google-generativeai
-chromadb
 sentence-transformers
+chromadb
+python-docx
+PyMuPDF
+PyPDF2
+tiktoken
+pysqlite3-binary
+pytesseract
+Pillow
